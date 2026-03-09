@@ -1,2 +1,2 @@
 # Projeto-Aula-04
-Projeto passado na área 4, arquivo HTML e README
+Projeto passado na aula 4 de Desenvolvimento Web, arquivo HTML e README
